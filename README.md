@@ -5,7 +5,7 @@ An interactive high-end automotive analytics dashboard built in Power BI, featur
 ---
 
 ## 🔗 Project Resources
-* 📥 **[Download Full Power BI File (.pbix) & Demo Video from Google Drive]([(https://drive.google.com/drive/folders/1NXEdW2V2Pqcr2bT-K3Tv9aNarBUJiuM3?usp=drive_link)])**
+* 📥 **[Download Full Power BI File (.pbix) from Google Drive]([(https://drive.google.com/drive/folders/1NXEdW2V2Pqcr2bT-K3Tv9aNarBUJiuM3?usp=drive_link)])**
 
 ---
 
