@@ -18,12 +18,12 @@ This project delivers deep, data-driven business intelligence for BMW sales perf
 
 ### 1. Executive Overview Page
 <p align="center">
-  <img src="BMW-Executive-Sales-Dashboard/tree/main/Screenshots/2.png" alt="BMW Executive Overview" width="100%">
+  <img src="https://raw.githubusercontent.com/Adham1611/BMW-Executive-Sales-Dashboard/main/Screenshots/2.png" alt="BMW Executive Overview" width="100%">
 </p>
 
 ### 2. Model Studio Pages (i8, M3, X3, X6)
 <p align="center">
-  <img src="https://github.com/Adham1611/BMW-Executive-Sales-Dashboard/tree/main/Screenshots/1.png" alt="BMW Model Analytics" width="100%">
+  <img src="https://raw.githubusercontent.com/Adham1611/BMW-Executive-Sales-Dashboard/main/Screenshots/1.png" alt="BMW Executive Overview" width="100%">
 </p>
 
 ---
