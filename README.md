@@ -18,12 +18,12 @@ This project delivers deep, data-driven business intelligence for BMW sales perf
 
 ### 1. Executive Overview Page
 <p align="center">
-  <img src="screenshots/overview_page.png" alt="BMW Executive Overview" width="100%">
+  <img src="screenshots/2.png" alt="BMW Executive Overview" width="100%">
 </p>
 
 ### 2. Model Studio Pages (i8, M3, X3, X6)
 <p align="center">
-  <img src="screenshots/model_page.png" alt="BMW Model Analytics" width="100%">
+  <img src="screenshots/1.png" alt="BMW Model Analytics" width="100%">
 </p>
 
 ---
@@ -55,4 +55,4 @@ This project delivers deep, data-driven business intelligence for BMW sales perf
 
 ## 👨‍💻 Author
 **Adham Ahmed Ahmed**  
-*Data Engineering & Artificial Intelligence | Software Development*
+*Data Engineering | Data Analysis*
